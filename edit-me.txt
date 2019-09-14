@@ -1,2 +1,2 @@
-localtests 
+localtests
 whompstyle
